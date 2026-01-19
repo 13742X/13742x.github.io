@@ -1,6 +1,6 @@
 # Steven Garner
 
-Entrpreneur | Researcher | Inventor | Whitepapers & Patents
+Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 
 ## Publications
 - [APM AIM (2026)](https://github.com/13742x/publications/blob/main/2026/2026-APM-AIM.pdf)
