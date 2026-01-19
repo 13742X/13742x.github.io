@@ -28,7 +28,7 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 - [Unus Protocol (2022)](https://docs.google.com/document/d/e/2PACX-1vTYEJe181NQG0Fk3GzQWamRbMHfHxLsRNk8PaZFWSQbc1jhcxtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub)
 
 ### 2021
-- [Double Entry Contract (DEC) Accounting on a Distributed Accounting Ledger (2021)]([xtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub](https://accdefi.com/accdefiwhitepaper.html))
+- [Double Entry Contract (DEC) Accounting on a Distributed Accounting Ledger (2021)](https://accdefi.com/accdefiwhitepaper.html))
 
 ## About
 Frontier Technology.
