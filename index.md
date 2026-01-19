@@ -29,6 +29,6 @@ Frontier Technology.
 
 ## Contact
 - Email: 13742x@gmail.com
-- GitHub: https://github.com/13742x
+- GitHub: [13742X](https://github.com/13742x)
 - LinkedIn: @steven_garner
 - Google Scholar: https://scholar.google.com/citations?user=JKIrY4IAAAAJ&hl=en
