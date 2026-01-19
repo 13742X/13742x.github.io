@@ -65,6 +65,12 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
     <p><a href="https://drive.google.com/file/d/1ADT3dGgQY-jVuIqJ94dPnKG3uXOUMjk_/view" target="_blank">WWW</a></p>
   </div>
 
+ <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
+    <strong>2023 | White Paper</strong>
+    <p><em>Collective Investment Scheme Fund Administration and Management using Modular Blockchains and Tokenization</em></p>
+    <p><a href="https://github.com/13742X/publications/blob/c3c42a2d25cc2f6c6487f356f90dbe4d9e880d19/2023/2023-CIS-Admin-White-Paper.pdf" target="_blank">PDF</a></p>
+  </div>
+
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2022 | White Paper</strong>
     <p><em>Unus Protocol - Unique Federated Digital Identification Protocol for the Risk Assessment of Natural and Unnatural Counterparty Actors</em></p>
