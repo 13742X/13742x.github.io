@@ -37,7 +37,7 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
   <!-- White Papers -->
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2026 | White Paper</strong>
-    <p><em>APM AIM</em></p>
+    <p><em>The Case for APM AIM</em></p>
     <p><a href="https://github.com/13742x/publications/blob/main/2026/2026-APM-AIM.pdf" target="_blank">PDF</a></p>
   </div>
 
@@ -45,6 +45,12 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
     <strong>2026 | White Paper</strong>
     <p><em>FIDO2 for SMEs</em></p>
     <p><a href="https://github.com/13742x/publications/blob/main/2026/2026-Why-You-Only-Need-FIDO2.pdf" target="_blank">PDF</a></p>
+  </div>
+
+ <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
+    <strong>2025 | White Paper</strong>
+    <p><em>AI Driven Dynamic Indexing for Unstructured Data Storage</em></p>
+    <p><a href="https://github.com/13742X/publications/blob/75dbd89b521b7e399bfe4ad991f76f968733ea91/2025/White-Paper-AI-DRIVEN-DYNAMIC-INDEXING-FOR-UNSTRUCTURED-DATA-STORAGE.pdf" target="_blank">PDF</a></p>
   </div>
 
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
