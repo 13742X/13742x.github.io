@@ -3,6 +3,9 @@
 Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 
 ## Patents
+### Pending
+- [Authenticating videos using ai and blockchain technologies - US18438646](https://patents.google.com/patent/US20250259431A1/en)
+
 ### 2025
 - [Digital storage and data transport system using file fragments assigned to data storage packets - US12468833B2](https://patents.google.com/patent/US12468833B2/en)
  
