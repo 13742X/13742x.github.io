@@ -1,6 +1,6 @@
 # Steven Garner
 
-**Entrepreneur | Researcher | Inventor | Whitepapers & Patents**
+** Entrepreneur | Researcher | Inventor | Whitepapers & Patents **
 
 [Email](mailto:13742x@gmail.com) • [GitHub](https://github.com/13742x) • [LinkedIn](https://www.linkedin.com/in/steven_garner/) • [Google Scholar](https://scholar.google.com/citations?user=JKIrY4IAAAAJ&hl=en)
 
