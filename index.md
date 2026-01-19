@@ -18,13 +18,11 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 - [APM AIM (2026)](https://github.com/13742x/publications/blob/main/2026/2026-APM-AIM.pdf)
 - [FIDO2 for SMEs(2026)](https://github.com/13742x/publications/blob/main/2026/2026-Why-You-Only-Need-FIDO2.pdf)
   
-### 2025
-
-
 ### 2022
 - [Unus Protocol](https://docs.google.com/document/d/e/2PACX-1vTYEJe181NQG0Fk3GzQWamRbMHfHxLsRNk8PaZFWSQbc1jhcxtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub)
 
-
+### 2021
+- [Double Entry Contract (DEC) Accounting on a Distributed Accounting Ledger]([xtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub](https://accdefi.com/accdefiwhitepaper.html))
 
 ## About
 Frontier Technology.
@@ -33,3 +31,4 @@ Frontier Technology.
 - Email: 13742x@gmail.com
 - GitHub: https://github.com/13742x
 - LinkedIn: @steven_garner
+- Google Scholar: https://scholar.google.com/citations?user=JKIrY4IAAAAJ&hl=en
