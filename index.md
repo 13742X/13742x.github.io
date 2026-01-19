@@ -6,7 +6,7 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 ### 2026
 - [APM AIM (2026)](https://github.com/13742x/publications/blob/main/2026/2026-APM-AIM.pdf)
 - [FIDO2 for SMEs(2026)](https://github.com/13742x/publications/blob/main/2026/2026-Why-You-Only-Need-FIDO2.pdf)
-- 
+  
 ### 2025
 
 ### 2024
