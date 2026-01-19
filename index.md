@@ -3,6 +3,9 @@
 Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 
 ## Patents
+### 2025
+- [Digital storage and data transport system using file fragments assigned to data storage packets - US12468833B2](https://patents.google.com/patent/US12468833B2/en)
+ 
 ### 2023
 - [Digital storage and data transport system - US11604888B2](https://patents.google.com/patent/US11604888B2/en)
 
