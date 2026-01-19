@@ -56,19 +56,19 @@
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2024 | White Paper</strong>
     <p><em>Sharding Files for Redundancy, Security, and Privacy: The Shard Share Protocol</em></p>
-    <p><a href="https://drive.google.com/file/d/1ADT3dGgQY-jVuIqJ94dPnKG3uXOUMjk_/view" target="_blank">PDF</a></p>
+    <p><a href="https://drive.google.com/file/d/1ADT3dGgQY-jVuIqJ94dPnKG3uXOUMjk_/view" target="_blank">WWW</a></p>
   </div>
 
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2022 | White Paper</strong>
     <p><em>Unus Protocol</em></p>
-    <p><a href="https://docs.google.com/document/d/e/2PACX-1vTYEJe181NQG0Fk3GzQWamRbMHfHxLsRNk8PaZFWSQbc1jhcxtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub" target="_blank">PDF</a></p>
+    <p><a href="https://docs.google.com/document/d/e/2PACX-1vTYEJe181NQG0Fk3GzQWamRbMHfHxLsRNk8PaZFWSQbc1jhcxtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub" target="_blank">WWW</a></p>
   </div>
 
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2021 | White Paper</strong>
     <p><em>Double Entry Contract (DEC) Accounting on a Distributed Accounting Ledger</em></p>
-    <p><a href="https://accdefi.com/accdefiwhitepaper.html" target="_blank">PDF</a></p>
+    <p><a href="https://accdefi.com/accdefiwhitepaper.html" target="_blank">WWW</a></p>
   </div>
 
 </div>
