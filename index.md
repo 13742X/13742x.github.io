@@ -83,6 +83,14 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
     <p><a href="https://accdefi.com/accdefiwhitepaper.html" target="_blank">WWW</a></p>
   </div>
 
+  <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
+    <strong>2019 | White Paper</strong>
+    <p><em>chainKey: A Trading Venue utilizing a Pseudo Deterministic Holistic Decentralized Identification System and Zero Knowledge Cold Storage</em></p>
+    <p><a href="https://docs.google.com/document/d/18IngvlgA_noR6FTFOEp0nq4o1roUQwd3J-LJdSns9-I/" target="_blank">WWW</a></p>
+  </div>
+
+
+
 </div>
 
 <script>
