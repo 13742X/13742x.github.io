@@ -67,7 +67,7 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2022 | White Paper</strong>
-    <p><em>Unus Protocol</em></p>
+    <p><em>Unus Protocol - Unique Federated Digital Identification Protocol for the Risk Assessment of Natural and Unnatural Counterparty Actors</em></p>
     <p><a href="https://docs.google.com/document/d/e/2PACX-1vTYEJe181NQG0Fk3GzQWamRbMHfHxLsRNk8PaZFWSQbc1jhcxtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub" target="_blank">WWW</a></p>
   </div>
 
