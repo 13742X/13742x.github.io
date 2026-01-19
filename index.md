@@ -16,16 +16,19 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 ## White Papers
 ### 2026
 - [APM AIM (2026)](https://github.com/13742x/publications/blob/main/2026/2026-APM-AIM.pdf)
-- [FIDO2 for SMEs(2026)](https://github.com/13742x/publications/blob/main/2026/2026-Why-You-Only-Need-FIDO2.pdf)
+- [FIDO2 for SMEs (2026)](https://github.com/13742x/publications/blob/main/2026/2026-Why-You-Only-Need-FIDO2.pdf)
+
+### 2025
+- [Use Case for Military and Defence and DSM Fragmentation (2025)](https://github.com/13742X/publications/blob/main/2025/2025-White-Paper-Military-Use-Case-For-Fragmentation.pdf)
 
 ### 2024
-- [Sharding Files for Redundancy, Security, and Privacy: The Shard Share Protocol](https://drive.google.com/file/d/1ADT3dGgQY-jVuIqJ94dPnKG3uXOUMjk_/view)
+- [Sharding Files for Redundancy, Security, and Privacy: The Shard Share Protocol (2024)](https://drive.google.com/file/d/1ADT3dGgQY-jVuIqJ94dPnKG3uXOUMjk_/view)
 
 ### 2022
-- [Unus Protocol](https://docs.google.com/document/d/e/2PACX-1vTYEJe181NQG0Fk3GzQWamRbMHfHxLsRNk8PaZFWSQbc1jhcxtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub)
+- [Unus Protocol (2022)](https://docs.google.com/document/d/e/2PACX-1vTYEJe181NQG0Fk3GzQWamRbMHfHxLsRNk8PaZFWSQbc1jhcxtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub)
 
 ### 2021
-- [Double Entry Contract (DEC) Accounting on a Distributed Accounting Ledger]([xtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub](https://accdefi.com/accdefiwhitepaper.html))
+- [Double Entry Contract (DEC) Accounting on a Distributed Accounting Ledger (2021)]([xtx7B4fFflT1PFUgOLADmgp6lXdhdvt/pub](https://accdefi.com/accdefiwhitepaper.html))
 
 ## About
 Frontier Technology.
