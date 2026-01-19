@@ -49,6 +49,13 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 
  <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2025 | White Paper</strong>
+    <p><em>Distributed Sovereign Configuration Protocol (DSCP); A Parity-Based, Rolling-Key Architecture for Ransomware-Resistant Infrastructure</em></p>
+    <p><a href="https://github.com/13742X/publications/blob/fcb16132adbe3b1844b54ef06b9f2908ffe03b70/2025/2025-DSCP-Protocol.pdf" target="_blank">PDF</a></p>
+  </div>
+
+
+ <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
+    <strong>2025 | White Paper</strong>
     <p><em>AI-Driven Optimization of Data Prompting and Extraction from Very Large Databases</em></p>
     <p><a href="https://github.com/13742X/publications/blob/cc951bc4efa31cc055c33abf823bd955ffa01c95/2025/2025-White-Paper-DB-AI.pdf" target="_blank">PDF</a></p>
   </div>
