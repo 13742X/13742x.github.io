@@ -55,7 +55,9 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
 
  <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2025 | White Paper</strong>
-    <p><em>The Road to Artificial Superintelligence: A Probabilistic Analysis</em></p>
+    <p><em>The Road to Artificial Superintelligence: A Probabilistic Analysis. This paper explores the progression from Artificial Narrow Intelligence
+(ANI) to Artificial General Intelligence (AGI) and ultimately to Artificial Superintelligence (ASI). Using Murphy’s Law as a heuristic, we propose a
+probabilistic model to estimate the timeframe for ASI emergence, assuming</em></p>
     <p><a href="https://github.com/13742X/publications/blob/19a6c6629166856d0d65daa95ece97f11911309a/2025/2025-asi.pdf" target="_blank">PDF</a></p>
   </div>
   
