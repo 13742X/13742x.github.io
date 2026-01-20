@@ -37,7 +37,7 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
   <!-- White Papers -->
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2026 | White Paper</strong>
-    <p><em>The Case for APM AIM</em></p>
+    <p><em>The Case for APM AIM: APM: The End of Tickets How One Person + AI Can Build a Unicorn to Replace Jira</em></p>
     <p><a href="https://github.com/13742x/publications/blob/main/2026/2026-APM-AIM.pdf" target="_blank">PDF</a></p>
   </div>
   
