@@ -37,6 +37,11 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
   <!-- White Papers -->
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2026 | White Paper</strong>
+    <p><em>No Server Exchange of Value Credits. A third paradigm addressing the problems with Bitcoin and Fiat Currencies.</em></p>
+    <p><a href="https://github.com/13742x/publications/blob/main/2026/2026-No-Server-Exchange-of-Value-Credits-(VCs)-White-Paper.pdf" target="_blank">PDF</a></p>
+  </div>
+  <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
+    <strong>2026 | White Paper</strong>
     <p><em>The Dawn of Embodied Intelligence: How Physical AI and Quantum Computing Will Forge the Path to Superintelligence</em></p>
     <p><a href="https://github.com/13742x/publications/blob/main/2026/2026-Physical-AI-and-Quantum-Computing-Will-Forge-the -Path-to-Superintelligence.pdf" target="_blank">PDF</a></p>
   </div>
