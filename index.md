@@ -40,6 +40,11 @@ Entrepreneur | Researcher | Inventor | Whitepapers & Patents
     <p><em>Coding Is a Temporary Phase: The Rise of AI-Native Software.</em></p>
     <p><a href="https://github.com/13742X/publications/blob/670e4e58815524b9b66acf72527b06838d5bf882/2026/2026-Coding-Is-Dead-AI-Native-Wins.pdf" target="_blank">PDF</a></p>
   </div>
+    <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
+    <strong>2026 | Essay</strong>
+    <p><em>How the EU’s Risk Aversion Handed Power to the U.S.</em></p>
+    <p><a href="https://raw.githubusercontent.com/13742X/publications/refs/heads/main/2026/2026-How-EUs-Risk-Aversion-Handed-Power-To-The-US" target="_blank">MD</a></p>
+  </div>
   <div class="publication whitepaper" style="background-color:#d4edda; border-radius:12px; padding:1rem; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
     <strong>2026 | White Paper</strong>
     <p><em>No Server Exchange of Value Credits. A third paradigm addressing the problems with Bitcoin and Fiat Currencies.</em></p>
